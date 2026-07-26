@@ -140,7 +140,7 @@ const SITE = {
   about: "Replace this paragraph with a few lines about yourself — who you are, what draws you to these subjects, and what you'd like a reader to take from spending time here.",
   contact: {
     email: "you@example.com",
-    twitter: "#",
-    linkedin: "#"
+    twitter: "https://x.com/AminulHJabed",
+    linkedin: "https://www.linkedin.com/in/aminul-haque-jabed-892920349?"
   }
 };
