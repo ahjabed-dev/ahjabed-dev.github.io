@@ -14,7 +14,7 @@
 const SITE = {
 
   // ---------- উপরের হিরো সেকশন ----------
-  name: "Your Name Here",
+  name: "Aminul Haque Jabed",
   eyebrow: "A notebook of essays & running thoughts",
   tagline_html: `I write to think out loud — about <em>philosophy</em>, <em>psychology</em>,
       and the smaller things that don't fit either category. This is a running
